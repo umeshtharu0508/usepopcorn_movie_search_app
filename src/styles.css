@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 0.5rem;
+  border-radius: 5px;
+  color: blueviolet;
+  font-size: 16px;
+}
+h2 {
+  font-size: 24px;
+  margin-bottom: 0.5rem;
+  color: rgb(0, 153, 255);
+}
+select {
+  padding: 0.5rem;
+  margin: 0.5rem;
+  border-radius: 5px;
+  color: blueviolet;
+  font-size: 16px;
+}
+p {
+  color: yellow;
+  margin-top: 1rem;
+  font-size: 20px;
+}
